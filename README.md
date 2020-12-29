@@ -14,3 +14,4 @@ sh RNA_pipeline.sh
 sh variant.sh
 - ATTENTION : nécessite un dossier human_genome/ contenant le chromosome 18 indexé et un dossier fastq contenant les fastq
 - Le script télécharge l'annotation
+- Résultats dans output/gene_variant_list.txt
