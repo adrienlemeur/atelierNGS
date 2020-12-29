@@ -5,7 +5,7 @@
 ## RNA-Seq :
 sh RNA_pipeline.sh
 
-Le téléchargement des différents fichiers et l'indexation du génome se font tout seuls
+Le téléchargement des différents fichiers et l'indexation du génome se font tout seuls\n
 Résultats dans results/table_comptage_read_for_R.table
 
 ## Analyse Variants :
